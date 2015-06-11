@@ -1133,3 +1133,19 @@ body {
 .field-item p {
   padding: 2px;
 }
+
+#first-time {
+    display: none;
+}
+
+.region-footer-second img {
+    width: 45px;
+    height: 45px;
+    border-radius: 10px;
+}
+
+.region-footer-fourth img {
+    width: 45px;
+    height: 45px;
+    border-radius: 10px;
+}
