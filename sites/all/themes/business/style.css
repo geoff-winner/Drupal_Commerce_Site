@@ -1138,6 +1138,13 @@ body {
     display: none;
 }
 
+.region-footer-first{
+    background-color: white;
+    text-align: center;
+    width: 200px;
+    height: 150px;
+}
+
 .region-footer-second img {
     width: 45px;
     height: 45px;
@@ -1148,4 +1155,19 @@ body {
     width: 45px;
     height: 45px;
     border-radius: 10px;
+}
+
+.footer-title {
+    background-image: url('images/pattern.jpg');
+    color: white;
+    border-radius: 5px;
+}
+
+#block-block-5  h2 {
+    text-align: center;
+    display: none;
+}
+
+#block-views-main-page-view-block-block {
+    text-align: center;
 }
